@@ -13,7 +13,7 @@ int main()
     int av = 0;
     int pv = 0;
 
-    double trials = 100000;
+    double trials = 10;
     for(int i = 0; i < trials; ++i)
     {
         Goof game;
